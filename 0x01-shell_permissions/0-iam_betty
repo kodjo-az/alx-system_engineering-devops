@@ -1,3 +1,2 @@
 #!/bin/bash 
-su -l betty 
-No newline at end of file
+su -l betty No newline at end of file
