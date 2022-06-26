@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R -type d a+x .
+sudo chmod -R -type d a+x 0x01-shell_permissions
