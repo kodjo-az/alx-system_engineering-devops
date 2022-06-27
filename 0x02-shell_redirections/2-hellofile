@@ -1,0 +1,1 @@
+–e #!/bin/bash\ncat /etc/passwd
